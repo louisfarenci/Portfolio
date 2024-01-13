@@ -1,4 +1,4 @@
-# Data Scientist
+# M.S. in Physics | Transitioning toward Data Science
 
 #### Technical Skills: Python, Machine Learning, Data Analysis & Visualization
 
