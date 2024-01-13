@@ -1,4 +1,4 @@
-# M.S. in Physics | Transitioning toward Data Science
+# Physics Graduate Transitioning into Data Science
 
 #### Technical Skills: Python, Machine Learning, Data Analysis & Visualization
 
